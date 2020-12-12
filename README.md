@@ -1,6 +1,6 @@
 # Identifying Info
- Full Name: Michael Masakayan
- Chapman ID: 2382578
+1. Full Name: Michael Masakayan
+2. Chapman ID: 2382578
  Chapman Email: masakayan@chapman.edu
  Course Number and Section: CPSC 350-03
  Assignment or Excercise Number: Assignment 5 - Student DB
