@@ -35,7 +35,7 @@ void DatabaseManager::runSimulation()
 
 while (choice != 14)
 {
-    cout << "Enter an option (type and enter 15 to reset window): \n";
+    cout << "~~~~ Enter an option (type and enter 15 to reset window) ~~~~ \n";
     cin >> t;
     getline(cin, empty);
     choice = isTheIntegerValid(t);
