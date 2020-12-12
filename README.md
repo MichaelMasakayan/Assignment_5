@@ -1,9 +1,9 @@
 # Identifying Info
-a. Full Name: Michael Masakayan
-b. Chapman ID: 2382578
-c. Chapman Email: masakayan@chapman.edu
-d. Course Number and Section: CPSC 350-03
-e. Assignment or Excercise Number: Assignment 5 - Student DB
+ Full Name: Michael Masakayan
+ Chapman ID: 2382578
+ Chapman Email: masakayan@chapman.edu
+ Course Number and Section: CPSC 350-03
+ Assignment or Excercise Number: Assignment 5 - Student DB
 
 # list of files
  main.cpp
