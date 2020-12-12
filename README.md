@@ -1,14 +1,14 @@
 # Identifying Info
 1. Full Name: Michael Masakayan
-2. Chapman ID: 2382578
+2.Chapman ID: 2382578
 3.Chapman Email: masakayan@chapman.edu
 4.Course Number and Section: CPSC 350-03
 5.Assignment or Excercise Number: Assignment 5 - Student DB
 
 # list of files
 1. main.cpp
- 2.DatabaseManager.cpp
-3. DatabaseManager.hpp
+2.DatabaseManager.cpp
+3.DatabaseManager.hpp
 4. Faculty.cpp
 5. Faculty.hpp
 6. GenBNode.hpp
@@ -17,7 +17,7 @@
 9. Student.cpp
 10.Student.hpp
 11. tester.hpp
- 12. README.md
+12. README.md
 
 
 # errors 
